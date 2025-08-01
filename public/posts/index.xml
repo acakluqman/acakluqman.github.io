@@ -6,7 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 12:56:21 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 13:16:34 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blood</title>
+      <link>http://localhost:1313/posts/first-blood/</link>
+      <pubDate>Fri, 01 Aug 2025 13:16:34 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-blood/</guid>
+      
+      <description>&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Lorem ipsum dolor sit amet&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
