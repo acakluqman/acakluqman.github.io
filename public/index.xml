@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 12:56:21 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 01 Aug 2025 12:56:21 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      
+      <description>&lt;h2 id=&#34;table-of-content&#34;&gt;Table of content&lt;/h2&gt;
+&lt;p&gt;This theme supports displaying table of content (ToC) in blog posts.&lt;/p&gt;
+&lt;h2 id=&#34;parameters&#34;&gt;Parameters&lt;/h2&gt;
+&lt;p&gt;You can manage a ToC with two parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;global &lt;code&gt;toc&lt;/code&gt; parameter;&lt;/li&gt;
+&lt;li&gt;post &lt;code&gt;toc&lt;/code&gt; parameter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The post &lt;code&gt;toc&lt;/code&gt; parameter has higher priority than the global &lt;code&gt;toc&lt;/code&gt; parameter.&lt;/p&gt;
+&lt;h2 id=&#34;enable-table-of-content-on-all-posts&#34;&gt;Enable table of content on all posts&lt;/h2&gt;
+&lt;p&gt;To enable ToC on all posts (globally) set parameter &lt;code&gt;toc&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in &lt;code&gt;hugo.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;params&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;toc&lt;/span&gt; = &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To disable ToC globally, simply ignore the &lt;code&gt;toc&lt;/code&gt; parameter or set it to &lt;code&gt;false&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
