@@ -15,6 +15,10 @@ title = 'My New Hugo Site'
     url = "https://instagram.com/acakluqman_"
 
 [params]
-  goToTop = true
-  toc = true
+    goToTop = true
+    toc = true
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
 
